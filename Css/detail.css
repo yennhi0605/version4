@@ -1,0 +1,49 @@
+ h1 {
+      text-align: center;
+      color: red;
+      width: 100%;
+      background-color: black;
+      border-radius: 10px;
+    }
+
+    h2 {
+      font-size: 25px;
+    }
+
+    h3 {
+      font-size: 20px;
+      margin-left: 30px;
+    }
+
+    .flex2 {
+      justify-content: center;
+      margin-left: 70px;
+      align-items: center;
+    }
+
+    .content {
+      justify-content: center;
+      margin-left: 200px;
+      align-items: center;
+    }
+
+    .detail-container {
+      padding: 16px;
+      background-color: white;
+      width: 500px;
+      justify-content: center;
+      border-style: round;
+      align-items: center;
+      margin-left: 400px;
+      background: black;
+      border-radius: 10px;
+      margin-top: 30px;
+      height: 650px;
+    }
+
+    button {
+      margin-left: 20px;
+      background: red;
+      border-radius: 10px;
+      border-color: black;
+    }
